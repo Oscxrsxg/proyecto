@@ -1,0 +1,28 @@
+/*Para cambiar el tipo de letra*/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /*color del fondo*/
+    background-color: rgb(47, 135, 52);
+    /*agregar una imagen de fondo*/
+    /*background-image: url("imagen.png");*/
+}
+h1{
+    color: rgb(96, 47, 0);/*color del texto*/
+    text-align: center;/*centrar texto*/
+}
+h2{
+    color: rgb(232, 125, 2);
+    text-align: end;/*texto al final*/
+}
+h3{
+    color: brown;
+    text-align: left;
+}
+p{
+    font-size: 50px;
+    color: rgb(253, 2, 2);
+}
+img{
+    width: 600px;/*ancho*/
+    height: 600px;/*largo*/
+}
